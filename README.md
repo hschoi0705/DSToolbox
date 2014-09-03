@@ -1,4 +1,4 @@
 DSToolbox
 =========
 
-For The Data Scientist's Toobbox course in Coursera
+For The Data Scientist's Toolbox course in Coursera
